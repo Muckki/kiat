@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+/* ê°•ì›êµìœ¡íŠ¼íŠ¼ì²´ */
+@font-face {
+    font-family: 'GangwonEdu';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 300;
+    src: url(../fonts/NotoSansKR-Light.woff2) format('woff2'),
+         url(../fonts/NotoSansKR-Light.woff) format('woff'),
+         url(../fonts/NotoSansKR-Light.otf) format('opentype');
+  }
+  @font-face {
+     font-family: 'Noto Sans KR';
+     font-style: normal;
+     font-weight: 400;
+     src: url(../fonts/NotoSansKR-Regular.woff2) format('woff2'),
+          url(../fonts/NotoSansKR-Regular.woff) format('woff'),
+          url(../fonts/NotoSansKR-Regular.otf) format('opentype');
+   }
+  @font-face {
+     font-family: 'Noto Sans KR';
+     font-style: normal;
+     font-weight: 500;
+     src: url(../fonts/NotoSansKR-Medium.woff2) format('woff2'),
+          url(../fonts/NotoSansKR-Medium.woff) format('woff'),
+          url(../fonts/NotoSansKR-Medium.otf) format('opentype');
+   }
+  @font-face {
+     font-family: 'Noto Sans KR';
+     font-style: normal;
+     font-weight: 700;
+     src: url(../fonts/NotoSansKR-Bold.woff2) format('woff2'),
+          url(../fonts/NotoSansKR-Bold.woff) format('woff'),
+          url(../fonts/NotoSansKR-Bold.otf) format('opentype');
+   }
+@font-face {
+     font-family: 'Noto Sans KR';
+     font-style: normal;
+     font-weight: 900;
+     src: url(../fonts/NotoSansKR-Black.woff2) format('woff2'),
+          url(../fonts/NotoSansKR-Black.woff) format('woff'),
+          url(../fonts/NotoSansKR-Black.otf) format('opentype');
+   }
+  
